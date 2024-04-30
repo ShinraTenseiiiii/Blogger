@@ -40,8 +40,9 @@ textarea {
   margin-bottom: 1rem;
 }
 
-.btn {
+.btn, .contact-up-btn {
   background-color: var(--black);
+  border-radius: 15px;
   border: none;
   color: white; 
   padding: 16px 32px;
